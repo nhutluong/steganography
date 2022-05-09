@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nhatl\\source\\repos\\SecretMessageEncoder\\SecretMessageEncoder.csproj",
+      "projectUniqueName": "C:\\Users\\nhatl\\OneDrive - InnovateMs\\Desktop\\Evaluation Projects\\SecretMessageEncoder\\SecretMessageEncoder.csproj",
       "projectName": "SecretMessageEncoder",
-      "projectPath": "C:\\Users\\nhatl\\source\\repos\\SecretMessageEncoder\\SecretMessageEncoder.csproj",
+      "projectPath": "C:\\Users\\nhatl\\OneDrive - InnovateMs\\Desktop\\Evaluation Projects\\SecretMessageEncoder\\SecretMessageEncoder.csproj",
       "packagesPath": "C:\\Users\\nhatl\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nhatl\\source\\repos\\SecretMessageEncoder\\obj\\",
+      "outputPath": "C:\\Users\\nhatl\\OneDrive - InnovateMs\\Desktop\\Evaluation Projects\\SecretMessageEncoder\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nhatl\\AppData\\Roaming\\NuGet\\NuGet.Config",
